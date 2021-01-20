@@ -1,5 +1,6 @@
 ### Hi there 👋
 hello test test
+![alt text](https://image.brigitte.de/10832706/t/8F/v3/w1440/r1/-/hand-kinderlinien.jpg)
 <!--
 **LunaNaima/LunaNaima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
